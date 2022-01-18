@@ -1,4 +1,4 @@
-# invest_checker
+# Investment Status
 
-The web scraper for getting the changes of stock and other commodities
+The web scraper will follow the changes of stock and other commodities
 
